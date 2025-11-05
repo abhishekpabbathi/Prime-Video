@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.each-list-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  width: 300px;
+}
+.thumbnail-image {
+  width: 350px;
+  height: 160px;
+  cursor: pointer;
+}
