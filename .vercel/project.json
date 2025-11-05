@@ -1,4 +1,8 @@
 {
   "projectId": "prj_fRY4JE49qM38IAFBpJEL4vbVnJkV",
-  "orgId": "team_XXXXXXXXXXXX"
+  "orgId": "team_XXXXXXXXXXXX",
+  
+  "buildCommand": "npm install && npm run build",
+  "devCommand": "npm start",
+  "installCommand": "npm install"
 }
